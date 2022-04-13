@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Derrik Pollo k
+- 👋 Hi, I’m Derrik Pollock
 - 👀 I’m interested in Blockchain Development and Game Development
 - 🌱 I’m currently learning VHDL for FPGA programming and Blockchain Development
 - 💞️ I’m looking to collaborate on Game Development through Discord
