@@ -4,7 +4,7 @@
 <h3 align="center">Rising Senior Computer Science Major</h3>
 <img align="right" alt="coding" width="400" src="https://images.idgesg.net/images/article/2018/08/certification_education_knowledge_learning_silhouette_with_graduation_cap_with_abstract_technology_imagery_nodes_blocks_blockchain_by_monsitj_gettyimages-961656326_1200x800-100766597-large.jpg?auto=webp&quality=85,70">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derrk" alt="derrk" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web3 Gaming Hub**
 
