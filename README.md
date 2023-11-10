@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on **Web3 Gaming Hub**
+- 🔭 I’m currently working on **Obtaining my AWS SA Cert**
 
-- 🌱 I’m currently learning **Bootstrap 5, Unreal Engine, Efinity (Enjin)**
+- 🌱 I’m currently learning **AWS Solution Architecture**
 
-- 👯 I’m looking to collaborate on **Web3 and Blockchain Games**
+- 👯 I’m looking to collaborate on **Developer Content and Game Development**
 
 - 🤝 I’m looking for help with **Design for Assets in Games**
 
