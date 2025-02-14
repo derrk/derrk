@@ -1,16 +1,16 @@
 ![MasterHead](https://www.dageeks.com/digital/tips-to-find-blockchain-developer-jobs/)
 
 <h1 align="center">Hi 👋, I'm Derrik Pollock</h1>
-<h3 align="center">Rising Senior Computer Science Major</h3>
+<h3 align="center">Data Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://images.idgesg.net/images/article/2018/08/certification_education_knowledge_learning_silhouette_with_graduation_cap_with_abstract_technology_imagery_nodes_blocks_blockchain_by_monsitj_gettyimages-961656326_1200x800-100766597-large.jpg?auto=webp&quality=85,70">
 
 
 
-- 🔭 I’m currently working on **Obtaining my AWS SA Cert**
+- 🔭 I’m currently working as a **Data Analyst**
 
-- 🌱 I’m currently learning **AWS Solution Architecture**
+- 🌱 I’m currently learning **Grafana**
 
-- 👯 I’m looking to collaborate on **Developer Content and Game Development**
+- 👯 I’m looking to collaborate on **Game Development**
 
 - 🤝 I’m looking for help with **Design for Assets in Games**
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/derrik-pollock-7396a8180/](https://www.linkedin.com/in/derrik-pollock-7396a8180/)
 
-- ⚡ Fun fact **I am a hobbyist miner and developer**
+- ⚡ Fun fact **I love motorcycles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
